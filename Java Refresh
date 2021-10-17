@@ -1,0 +1,26 @@
+/*
+    I believe this is how you would write a 
+    multi-line comment
+*\
+
+public class HelloWorld {
+
+  public static void main(int[] args) {
+  
+    System.out.print('Hello World);
+  }
+}
+
+// I will be updating this file with new edits as I refresh my Java memory...
+
+
+//  Loop
+
+public void aLoop() {
+
+  for(int i=0; i<10; i++){
+    System.out.print(i);
+   }
+   //this should print out 0-9
+   // its never actually called so nothing will be displayed.
+}
